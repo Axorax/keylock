@@ -1,0 +1,8 @@
+env/
+dist/
+build/
+Output/
+__pycache__/
+*-log-*.txt
+*.config
+*.spec
